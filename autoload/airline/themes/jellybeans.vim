@@ -25,7 +25,7 @@ let s:cterm05 = "152"
 let s:cterm06 = "188"
 let s:cterm07 = "189"
 let s:cterm08 = "88"
-let s:cterm09 = "209"
+let s:cterm09 = "252"
 let s:cterm0A = "221"
 let s:cterm0B = "22"
 let s:cterm0C = "73"
@@ -39,7 +39,7 @@ let s:ctermWhite = "231"
 let s:ctermGray = "243"
 
 let g:airline#themes#jellybeans#palette = {}
-let s:modified = { 'airline_c': [ '#ffb964', '', 215, '', '' ] }
+let s:modified = { 'airline_c': [ '#d0d0bd', '', 252, '', '' ] }
 
 " Normal mode
 let s:N1 = [ s:gui07 , s:gui0D , s:cterm07 , s:cterm0D  ]
